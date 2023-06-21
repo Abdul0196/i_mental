@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/github.io/i_mental/static/css/main.dcb29bbe.css",
+    "main.js": "/github.io/i_mental/static/js/main.697ca817.js",
+    "static/media/bg.png": "/github.io/i_mental/static/media/bg.ff5d0a252d349a577102.png",
+    "static/media/Oswald-SemiBold.woff2": "/github.io/i_mental/static/media/Oswald-SemiBold.de3b89f4355c79024932.woff2",
+    "static/media/Oswald-Regular.woff2": "/github.io/i_mental/static/media/Oswald-Regular.fc650718934e149e0aa8.woff2",
+    "static/media/Jost-Bold.woff2": "/github.io/i_mental/static/media/Jost-Bold.d29d5f99bc9d9a47c1b9.woff2",
+    "static/media/Jost-Regular.woff2": "/github.io/i_mental/static/media/Jost-Regular.3c20eb8ed5f5e574a97b.woff2",
+    "index.html": "/github.io/i_mental/index.html",
+    "main.dcb29bbe.css.map": "/github.io/i_mental/static/css/main.dcb29bbe.css.map",
+    "main.697ca817.js.map": "/github.io/i_mental/static/js/main.697ca817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb29bbe.css",
+    "static/js/main.697ca817.js"
+  ]
+}
